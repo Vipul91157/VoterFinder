@@ -78,25 +78,7 @@ python app.py
 
 ---
 
-## 📊 Screenshots
 
-### Home Screen
-
-(Add Screenshot Here)
-
-### Search by Name
-
-(Add Screenshot Here)
-
-### Search Results
-
-(Add Screenshot Here)
-
-### Excel Export
-
-(Add Screenshot Here)
-
----
 
 ## 📌 Current Limitations
 
